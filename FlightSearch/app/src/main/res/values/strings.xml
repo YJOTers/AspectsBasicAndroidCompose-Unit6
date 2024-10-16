@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="test_field_search">Search</string>
+    <string name="airport_title">Flights from %1$s</string>
+    <string name="favorite_title">Favorite routes</string>
+    <string name="subitem_favorite1">DEPART</string>
+    <string name="subitem_favorite2">ARRIVE</string>
+</resources>
